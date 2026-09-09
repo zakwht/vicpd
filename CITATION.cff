@@ -15,5 +15,5 @@ preferred-citation:
     given-names: "Zak"
     orcid: "https://orcid.org/0009-0009-4039-2831"
   title: "Victoria Police Spending in Context"
-  version: 1.0.1
   date-published: 2026-09-09
+  url: "https://github.com/zakwht/vicpd"
